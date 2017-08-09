@@ -17,5 +17,6 @@
 <properties>
 <maven.complier.source>1.8</maven.complier.source>
 <maven.complier.target>1.8</maven.complier.target>
+<java.version>1.8</java.version>
 </properties>
 </project>
